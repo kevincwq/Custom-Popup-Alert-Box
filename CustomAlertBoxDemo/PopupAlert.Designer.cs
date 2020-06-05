@@ -1,6 +1,6 @@
 ﻿namespace CustomAlertBoxDemo
 {
-    partial class Form_Alert
+    partial class PopupAlert
     {
         /// <summary>
         /// Required designer variable.
